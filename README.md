@@ -8,9 +8,9 @@ This place is to post "Issues" (bug reports and feature requests) for [After The
 * [Discord Channel](https://discord.gg/anarkis): It's probably a good place to visit
 * [Steam Community](https://steamcommunity.com/app/727570): General news and forums about the game
 
-## General Rules
+## Report a bug / Ask for a feature
 
-* Click on the "Issues" link at the top to access the list of current problems, ideas and features requests
-* Make sure you're not posting a deplicate of an existing issue. If you have something to add to something, comment in the existing thread
-* If your issue is not in the list yet, press the green "New Issue" button at the top right
-* Be nice, proper and respectful, this is for proper bug reports and feature requests, not for random comments
+* Click on the ["Issues"](https://github.com/AnarkisGaming/ATC-Feedback/issues) link to make
+* Make sure your request is not in the list already, and if not click on the [big green button](https://github.com/AnarkisGaming/ATC-Feedback/issues/new) in the top right 
+* You can attach files to your reports if need be (drag & drop the file to the appropriate field)
+* Be nice and respectful, this place is for proper bug reports and feature requests, not for random comments
