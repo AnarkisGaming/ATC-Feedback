@@ -12,7 +12,7 @@ This repo contains no code.
 
 ## Report a bug / Ask for a feature
 
-* Click on the ["Issues"](https://github.com/AnarkisGaming/ATC-Feedback/issues) link to make
-* Make sure your request is not in the list already, and if not click on the [big green button](https://github.com/AnarkisGaming/ATC-Feedback/issues/new) in the top right 
-* You can attach files to your reports if need be (drag & drop the file to the appropriate field)
-* Be nice and respectful, this place is for proper bug reports and feature requests, not for random comments
+* Click on the ["Issues"](https://github.com/AnarkisGaming/ATC-Feedback/issues) link to view existing issues.
+* Make sure your request is not in the list already, and if not click on the [big green button](https://github.com/AnarkisGaming/ATC-Feedback/issues/new) in the top right.
+* You can attach files to your reports if need be (drag & drop the file to the appropriate field).
+* Be nice and respectful, this place is for proper bug reports and feature requests, not for random comments.
