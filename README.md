@@ -1,6 +1,8 @@
 # After the Collapse: Bug Report and Feedback Repository
 
-This place is to post "Issues" (bug reports and feature requests) for [After The Collapse](https://store.steampowered.com/app/727570/After_the_Collapse/), our base building game. This repo contains no code.
+This place is to post "Issues" (bug reports and feature requests) for [After The Collapse](https://store.steampowered.com/app/727570/After_the_Collapse/), our base building game. 
+
+This repo contains no code.
 
 ## Useful Links
 
